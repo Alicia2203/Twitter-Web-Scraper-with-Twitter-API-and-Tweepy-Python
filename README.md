@@ -6,10 +6,10 @@ It uses the library Tweepy to extract the necessary data and then stores these i
 ## Instructions
 1. Before running the codes, please ensure that you have the required packages installed.  
 - pip install tweepy
-pip install webdriver-manager
-pip install pandas
-pip install time
-pip install psutil
+- pip install webdriver-manager
+- pip install pandas
+- pip install time
+- pip install psutil
 
 2. After installation of packages, modify the parameter input of. 
 twitter_login function: with a valid email address, username and password that will able to access and log into Twitter
