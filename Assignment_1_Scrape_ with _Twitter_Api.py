@@ -81,7 +81,7 @@ for i in range(len(keyword_alltweets)):
     data['ProfileLink'][i] = "https://twitter.com/" + data['ProfileLink'][i]
   
 # import to csv file
-data.to_csv('/Users/alicia/Library/CloudStorage/OneDrive-SunwayEducationGroup/Sunway/Sem 6/SMA/Group Assignment 1/Twitter API with Python/Tesla2.csv')
+data.to_csv('C:/Users/user/desktop/tweets.csv')
 
 
 
