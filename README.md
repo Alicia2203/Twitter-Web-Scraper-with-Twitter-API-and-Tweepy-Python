@@ -6,7 +6,6 @@ It uses the library Tweepy to extract the necessary data and then stores these i
 ## Instructions
 1. Before running the codes, please ensure that you have the required packages installed.  
 - pip install tweepy
-- pip install webdriver-manager
 - pip install pandas
 - pip install time
 - pip install psutil
